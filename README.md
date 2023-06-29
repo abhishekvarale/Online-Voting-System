@@ -1,2 +1,3 @@
 # Online-Voting-System
-This
+
+This repository houses an Online Voting System, designed to address the limitations of traditional voting processes. The existing system requires substantial resources, manpower, and time to set up voting booths, manage security, and handle manual vote counting. In contrast, our proposed system leverages the power of the internet to streamline the voting process. Through a secure online platform, voters can conveniently register, log in from anywhere, and cast their votes electronically. Candidates and parties can also register, monitor their status, and access voting results. By eliminating the need for physical voting booths and reducing manual effort, our system saves time, energy, and resources. 
